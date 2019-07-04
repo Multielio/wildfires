@@ -8,7 +8,7 @@ const Header = () => {
   return (
     <HeaderElem>
       <TitleIntro>Let's Learn About</TitleIntro>
-      <Title>Waveforms</Title>
+      <Title>Wildfires</Title>
     </HeaderElem>
   );
 };
